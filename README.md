@@ -5,7 +5,9 @@ Para utilizar esta biblioteca se deberá agregar una referencia a su proyecto y 
 
 ```c#
 var whatsApp = new WhatsAppApi(accountSid, authToken);
-whatsApp.Send("+59899123456", "Hey! I'm using WhatsApp");
+whatsApp.Send("+598<Poné tu teléfono acá>", "Hey! I'm using WhatsApp");
 ```
 
-Las credeciales podran ser descargadas de Webasignatura
+Reemplacen ``"<Poné tu teléfono acá>"`` por el número de teléfono de ustedes.
+
+Agreguen a WhatsApp el siguiente contacto: +14155238886
