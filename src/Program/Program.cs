@@ -1,6 +1,4 @@
 ﻿using System;
-using Twilio;
-using Twilio.Rest.Api.V2010.Account;
 
 namespace WhatsAppApiUCU
 {
