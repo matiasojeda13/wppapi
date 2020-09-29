@@ -7,7 +7,7 @@ Para utilizar esta biblioteca se deberá:
 
 ```c#
 const string accountSid = "AC52493b284c82ba2c6b196ef82e412576";
-const string authToken = "fdbb56b4123831013cce62fd5686bc05";
+const string authToken = "f027e9b15f3777950cdb0179f159a35d";
 
 var whatsApp = new WhatsAppApi(accountSid, authToken);
 whatsApp.Send("+598<Poné tu teléfono acá>", "Hey! I'm using WhatsApp");
